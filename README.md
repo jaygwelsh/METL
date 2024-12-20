@@ -1,6 +1,6 @@
 # METL (Metadata Embedding and Tracking Ledger)
 
-METL is a robust and versatile tool for embedding, encrypting, signing, and verifying metadata within various file formats. By leveraging sidecar files, cryptographic security, and Role-Based Access Control (RBAC), METL ensures the integrity, authenticity, and confidentiality of your metadata.
+METL is a robust and versatile experimental tool for embedding, encrypting, signing, and verifying metadata within various file formats. By leveraging sidecar files, cryptographic security, and Role-Based Access Control (RBAC), METL ensures the integrity, authenticity, and confidentiality of your metadata.
 
 ## Table of Contents
 
