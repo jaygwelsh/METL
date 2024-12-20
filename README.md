@@ -1,8 +1,5 @@
 # METL (Metadata Embedding and Tracking Ledger)
 
-[![Build Status](https://github.com/yourusername/metl/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/metl/actions/workflows/ci.yml)
-[![Coverage Status](https://img.shields.io/codecov/c/github/yourusername/metl)](https://codecov.io/gh/yourusername/metl)
-
 METL is a robust and versatile tool for embedding, encrypting, signing, and verifying metadata within various file formats. By leveraging sidecar files, cryptographic security, and Role-Based Access Control (RBAC), METL ensures the integrity, authenticity, and confidentiality of your metadata.
 
 ## Table of Contents
@@ -18,9 +15,7 @@ METL is a robust and versatile tool for embedding, encrypting, signing, and veri
 - [Security Features](#security-features)
 - [Testing](#testing)
 - [Benchmarking](#benchmarking)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ## Features
 
