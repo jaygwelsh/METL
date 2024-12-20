@@ -1,0 +1,3 @@
+required_fields:
+  - data_subject_id
+  - consent_status

@@ -1,0 +1,4 @@
+kms:
+  provider: "mock"        # Change to "aws", "azure", etc.
+  key_id: "your-key-id"   # Replace with your key ID or set via ENV VAR
+  region: "your-region"   # Replace or set via ENV VAR
